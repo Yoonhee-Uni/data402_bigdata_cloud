@@ -16,7 +16,7 @@ https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-ubuntu/
 
 ### Config issue
 ```bash
-sudo nano /etc/ssh/sshd_config
+sudo nano /etc/mongod.conf
 ```
 ```commandline
 press : 'i'
